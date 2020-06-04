@@ -1,1 +1,1 @@
-配置中心
+用于测试SpringCloud使用GitHub作为配置中心仓库
